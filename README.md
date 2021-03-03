@@ -1,9 +1,16 @@
+<!--
 <p align="center">
   <img width="150" src="https://media.giphy.com/media/hpWYUVOg8aR3ZifSeD/giphy.gif">
 <p>
-
+-->
+<!--
 <p align="center">
   <b>hey, how’s it going?</b>
+<p>
+-->
+
+<p align="center">
+  <img width="400" src="https://cdn.myanimelist.net/s/common/uploaded_files/1479274675-578a795fed33e9a17ea871c9b44d9996.gif">
 <p>
 
 <p align="center">
