@@ -1,16 +1,5 @@
-<!--
 <p align="center">
-  <img width="150" src="https://media.giphy.com/media/hpWYUVOg8aR3ZifSeD/giphy.gif">
-<p>
--->
-<!--
-<p align="center">
-  <b>hey, how’s it going?</b>
-<p>
--->
-
-<p align="center">
-  <img width="400" src="https://cdn.myanimelist.net/s/common/uploaded_files/1479274675-578a795fed33e9a17ea871c9b44d9996.gif">
+  <img height="230" src="https://sun9-58.userapi.com/impg/rbWN1J9Jp5c9oLuT--Qin1QOVwyzcQgJCASntQ/aFISoIwTjEc.jpg?size=1440x802&quality=96&sign=1e61b0b141630a39585aa0be26c4198c&type=album">
 <p>
 
 <p align="center">
