@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="#"><img height="300" width="420" src="https://user-images.githubusercontent.com/64320078/133827067-49e39a4d-9499-46ab-a885-377e761f4572.gif"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/64320078/136412953-89c33a6a-3972-485c-9cd7-3ba4dc291da2.gif"></a>
 <p>
-
+  
 <p align="center">
   <a href="https://vk.com/raitonoberu"><img width="30" src="https://cdn0.iconfinder.com/data/icons/popular-services-brands/512/vkontakte-512.png"></a>
   <a href="https://t.me/raitonoberu"><img width="32" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"></a>
