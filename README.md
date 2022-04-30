@@ -3,8 +3,8 @@
 <p>
   
 <p align="center">
-  <a href="https://vk.com/raitonoberu"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/32/vkontakte.png"></a>
-  <a href="https://t.me/raitonoberu"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/32/telegram.png"></a>
-  <a href="https://www.instagram.com/urebonotiar"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/32/instagram.png"></a>
-  <a href="https://twitter.com/urebonotiar"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/32/twitter.png"></a>
+  <a href="https://vk.com/raitonoberu"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/vkontakte.png"></a>
+  <a href="https://t.me/raitonoberu"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/telegram.png"></a>
+  <a href="https://www.instagram.com/urebonotiar"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/instagram.png"></a>
+  <a href="https://twitter.com/urebonotiar"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/twitter.png"></a>
 </p>
